@@ -22,8 +22,10 @@
       <div class="flex h-16 items-center justify-between">
         <div class="flex items-center">
           <div class="shrink-0">
-            <img src="https://tailwindcss.com/plus-assets/img/logos/mark.svg?color=indigo&shade=500" alt="Your Company" class="size-8" />
-          </div>
+            <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke-width="1.5" stroke="currentColor" class="size-8 text-indigo-500">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M20.25 14.15v4.25c0 1.035-.84 1.875-1.875 1.875H5.625A1.875 1.875 0 013.75 18.4v-4.25m16.5 0a1.875 1.875 0 00-1.875-1.875H5.625a1.875 1.875 0 00-1.875 1.875m16.5 0v-4.25c0-1.035-.84-1.875-1.875-1.875H5.625A1.875 1.875 0 003.75 8.025v4.25m16.5 0a1.875 1.875 0 01-1.875-1.875H5.625a1.875 1.875 0 01-1.875 1.875M12 12v.008H12V12z" />
+            </svg>
+        </div>
           <div class="hidden md:block">
             <div class="ml-10 flex items-baseline space-x-4">
               <!-- Current: "bg-gray-900 text-white", Default: "text-gray-300 hover:bg-white/5 hover:text-white" -->
@@ -74,11 +76,15 @@
       <div class="border-t border-white/10 pt-4 pb-3">
         <div class="flex items-center px-5">
           <div class="shrink-0">
-            <img src="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="" class="size-10 rounded-full outline -outline-offset-1 outline-white/10" />
-          </div>
+                <img
+                src="https://ui-avatars.com/api/?name=Boh+Mid&background=6366f1&color=fff&rounded=true"
+                alt="User Avatar"
+                class="size-10 rounded-full outline -outline-offset-1 outline-white/10"
+                />
+            </div>
           <div class="ml-3">
-            <div class="text-base/5 font-medium text-white">Tom Cook</div>
-            <div class="text-sm font-medium text-gray-400">tom@example.com</div>
+            <div class="text-base/5 font-medium text-white">BOH battikh</div>
+            <div class="text-sm font-medium text-gray-400">ahmedbattikh@gmail.com</div>
           </div>
           <button type="button" class="relative ml-auto shrink-0 rounded-full p-1 text-gray-400 hover:text-white focus:outline-2 focus:outline-offset-2 focus:outline-indigo-500">
             <span class="absolute -inset-1.5"></span>
