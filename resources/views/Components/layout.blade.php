@@ -48,9 +48,9 @@
 
             <div class="relative ml-3 flex items-center">
                 <img
-                src="https://ui-avatars.com/api/?name=Boh+Mid&background=6366f1&color=fff&rounded=true"
-                alt="User Profile"
-                class="size-8 rounded-full outline -outline-offset-1 outline-white/10"
+                    src="https://ui-avatars.com/api/?name=Boh&background=6366f1&color=fff&rounded=true&length=3"
+                    alt="User Avatar"
+                    class="size-10 rounded-full outline -outline-offset-1 outline-white/10"
                 />
             </div>
 
